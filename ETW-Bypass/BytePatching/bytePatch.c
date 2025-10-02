@@ -1,4 +1,4 @@
-//#@ created by: 'z0b1l4l'
+//#@z0b1l4l
 
 
 #include<stdio.h>

@@ -30,4 +30,4 @@ https://medium.com/@zanebilal6/d8875e7385b9
 
 ## License
 
-This repository is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+This repository is licensed under the **MIT License**

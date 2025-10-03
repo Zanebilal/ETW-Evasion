@@ -115,9 +115,9 @@ BOOL PatchNtTraceEvent() {
 
 int main() {
 
-	/*PatchEtwEventWrite(PATCH_ETW_EVENT_WRITE);
+	PatchEtwEventWrite(PATCH_ETW_EVENT_WRITE);
 	PatchEtwEventWrite(PATCH_ETW_EVENT_WRITE_EX);
-	PatchEtwEventWrite(PATCH_ETW_EVENT_WRITE_FULL);*/
+	PatchEtwEventWrite(PATCH_ETW_EVENT_WRITE_FULL);
 
 	PatchNtTraceEvent();
 

@@ -1,3 +1,5 @@
+//#@-z0b1l4l
+
 #include<stdio.h>
 #include<windows.h>
 #include "HardwareBreaking.h"

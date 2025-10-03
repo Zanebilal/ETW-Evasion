@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 # Evading ETW techniqes
 
@@ -26,3 +27,7 @@ https://medium.com/@zanebilal6/d8875e7385b9
  ```
  2. chose the technique you want to implement in your project
  3. run the code
+
+## License
+
+This repository is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
